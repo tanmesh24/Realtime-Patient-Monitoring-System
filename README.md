@@ -70,7 +70,7 @@ additional_markdown = """
 
 > Real-time visualization of patient vitals (heart rate, SpO₂, etc.) and anomaly alerts.
 
-![Dashboard Screenshot](dashboard.jpeg)  
+![Dashboard Screenshot](Screenshot from 2025-04-28 21-16-17.png)  
 _Above: Streamlit Dashboard showing live patient health metrics and alert triggers._
 
 ---
@@ -86,7 +86,7 @@ _Above: Streamlit Dashboard showing live patient health metrics and alert trigge
   - Real-time update on the dashboard
   - Event logged to Cassandra or HDFS for storage
 
-  ![Dashboard Screenshot](alert.png)  
+  ![Dashboard Screenshot](Screenshot from 2025-04-29 12-30-30.png)  
 
 ---
 
